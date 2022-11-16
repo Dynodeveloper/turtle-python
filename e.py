@@ -9,7 +9,7 @@ screen.bgcolor("Black")
 t = turtle.Turtle()
 t.color("black")
 t.shape("turtle")
-t.speed(5)
+t.speed(4)
  
 # Define a function to draw and
 # fill a rectangle with the given
